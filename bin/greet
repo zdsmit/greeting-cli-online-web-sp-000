@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
+puts "Hi, I'm HAL! What's your name?"
 # code your CLI here!
